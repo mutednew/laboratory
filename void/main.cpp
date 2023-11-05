@@ -19,21 +19,21 @@ int main()
 
 	float x = a, y;
 
-	do
+	/*do
 	{
 		y = tan(pow(x, 3)) + (2 * sin(x) - 3);
 		cout << "X= " << x << "\n" << "Y= " << y << endl;
 
 		x += h;
-	} while (x <= b);
+	} while (x <= b);*/
 
-	/*while (x <= b)
+	while (x <= b)
 	{
 		y = tan(pow(x, 3)) + (2 * sin(x) - 3);
 		cout << "X= " << x << "\n" << "Y= " << y << endl;
 
 		x += h;
-	}*/
+	}
 
 	return 0;
 }
