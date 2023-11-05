@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++\lb-6\void\void\main.cpp(20,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\C++\lb-6\void\void\main.cpp(24,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  void.vcxproj -> D:\C++\lb-6\void\x64\Debug\void.exe
