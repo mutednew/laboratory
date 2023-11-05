@@ -19,6 +19,13 @@ int main()
 
 	float x = a, y;
 
+	for (int i = 0; i < 11; i++)
+	{
+		cout << i << endl;
+	}
+
+	cout << "********************************";
+
 	/*do
 	{
 		y = tan(pow(x, 3)) + (2 * sin(x) - 3);
